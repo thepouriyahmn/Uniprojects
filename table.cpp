@@ -4,7 +4,7 @@
 using namespace std;
     int main(){
 
-string types[4] ={"Fname","Lname","id","num"};
+
 	string Fnames[7] = {"Fname","pouriya" , "zahra" , "pariya", "hossein" , "ali" , "aida"};
 	string Lnames[7] = {"Lname","hamedani" , "gmi" , "hamedani" , " bahrami" , "samaei" , "rasoli"};
 	string id[7]={"id","4442","4443","4444","4445","4446","4447"};
