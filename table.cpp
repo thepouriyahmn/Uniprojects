@@ -6,9 +6,9 @@ using namespace std;
 
 string types[4] ={"Fname","Lname","id","num"};
 	string Fnames[7] = {"Fname","pouriya" , "zahra" , "pariya", "hossein" , "ali" , "aida"};
-	string Lnames[7] = {"Lname","hamedani" , "zhraie" , "hamedani" , " bahrami" , "samaei" , "rasoli"};
-	int id[7]={0,4442,4443,4444,4445,4446,4447};
-	int num[7]={0,2,3,4,5,6,7};
+	string Lnames[7] = {"Lname","hamedani" , "gmi" , "hamedani" , " bahrami" , "samaei" , "rasoli"};
+	string id[7]={"id","4442","4443","4444","4445","4446","4447"};
+	string num[7]={"number","1","2","3","4","5","6"};
 
 	cout << "╔";
 for (int j = 0; j < 4 ; j++){
